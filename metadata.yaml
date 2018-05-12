@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2455
     wikipedia: http://en.wikipedia.org/wiki/Sallust
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29769#Jugurtha
 gutenberg_issued: '2009-08-23'
 gutenberg_type: Text
 identifiers:
